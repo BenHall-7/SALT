@@ -96,8 +96,8 @@ namespace SALT.Moveset
     public enum VarSourceType
     {
         // Standard types // 
-        LA = 0,
-        RA = 1,
+        Instance = 0,
+        Status = 1,
 
         // parameter file groups //
         fighter_param_common = 2,
